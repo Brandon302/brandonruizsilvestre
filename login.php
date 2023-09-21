@@ -1,9 +1,8 @@
 <?php
 echo "<link rel=stylesheet href=login.css>";
-$servername = "localhost";
-$username = "root";
+$servername = "cheffsitos";
+$username = "brandon";
 $password = "brandon2102";
-$dbname = "consolas";
 $usuario = $_POST['usuario'];
 $contrasena = $_POST['password'];
 
